@@ -33,12 +33,15 @@ git commit -m "Descripción de lo que hice"
 4.	Subir al repositorio:
 git push origin main
 
+
 Resumen 
 o	git pull origin main → traer lo último.
 o	Editar y programar.
 o	git add .
 o	git commit -m "mensaje claro"
 o	git push origin main
+
+
 Resumen add solo un archivo 
 o	Usar git add nombre-carpeta/, para añadir solo la carpeta modificada.
 o	Usar git add ruta/archivo si quieres ser aún más específico.
